@@ -1,7 +1,7 @@
 # Oleg Lvovitch
 
 Distinguished Engineer at Elastic, in London. I work across the ES|QL query engine. My focus lately is data federation: letting a
-query reach data where it already lives, instead of requiring it to be indexed first.
+query reach data where it already lives, bringing external data to Elastic ecosystem with no ingest.
 
 That starts with files in blob storage — Parquet, CSV, TSV, NDJSON, ORC on S3 and other
 blob storage — and moves outward from there, to data lakes and to whatever else is worth reaching.
