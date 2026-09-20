@@ -1,15 +1,14 @@
 # Oleg Lvovitch
 
-Distinguished Engineer at Elastic, in London. I work across the ES|QL query engine — the
-language, the planner, the execution layer. My focus lately is data federation: letting a
+Distinguished Engineer at Elastic, in London. I work across the ES|QL query engine. My focus lately is data federation: letting a
 query reach data where it already lives, instead of requiring it to be indexed first.
 
-That starts with files in blob storage — Parquet, CSV, TSV, NDJSON, ORC on S3, GCS and
-Azure — and moves outward from there, to data lakes and to whatever else is worth reaching.
+That starts with files in blob storage — Parquet, CSV, TSV, NDJSON, ORC on S3 and other
+blob storage — and moves outward from there, to data lakes and to whatever else is worth reaching.
 The point is to widen what the Elastic ecosystem can answer questions about.
 
-Before Elastic, AWS. Before that, Box. About twenty-five years of building systems that
-have to stay correct under load.
+Before Elastic, S3. Before that, Box and before that, Microsoft About twenty-five years of building systems that
+compose functions over storage. 
 
 ## The work
 
